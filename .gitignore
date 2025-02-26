@@ -1,0 +1,23 @@
+# (Frontend)
+employee-management-FE/node_modules/
+employee-management-FE/.env
+employee-management-FE/.next/
+employee-management-FE/.turbo/
+employee-management-FE/dist/
+employee-management-FE/build/
+employee-management-FE/.DS_Store
+employee-management-FE/yarn.lock
+employee-management-FE/package-lock.json
+
+# (Backend)
+employee-management-BE/bin/
+employee-management-BE/obj/
+employee-management-BE/.vs/
+employee-management-BE/appsettings.json
+employee-management-BE/appsettings.Development.json
+employee-management-BE/Migrations/
+employee-management-BE/*.db
+
+# System files
+.DS_Store
+Thumbs.db
