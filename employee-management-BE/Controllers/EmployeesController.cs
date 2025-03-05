@@ -26,7 +26,7 @@ public class EmployeesController : ControllerBase
         return Ok(employee);
     }
 
-
+    [Authorize(Roles = Roles.Admin)]
     [HttpPost]
     public async Task<ActionResult<Employee>> CreateEmployee(Employee employee)
     {

@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const EmployeeList = () => {
     const [employees, setEmployees] = useState([]);
-    const API_URL = "https://localhost:5001/api";
+    const API_URL = "http://localhost:5265/api";
 
     useEffect(() => {
         axios.get(`${API_URL}/employees`)

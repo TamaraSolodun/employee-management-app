@@ -8,9 +8,9 @@ Role-based access control (Admin, Manager, Employee).
 Profile management (view and update personal information).
 
 --- Employee Management: ---
-Add, edit, and delete employee records.
-View employee details (name, position, date of joining, etc.).
-Search and filter employees.
+Add, edit, and delete employee records. +
+View employee details (name, position, date of joining, etc.). +
+Search and filter employees. +
 
 
 --- Attendance Management: ---
